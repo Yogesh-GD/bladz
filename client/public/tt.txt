@@ -1,0 +1,96 @@
+Great — creating a Settings Page is an essential step for a chat app like yours (Sword-Talk). Here's a well-structured list of what you can include in the Settings Page, especially keeping scalability, user experience, and future features in mind.
+🔧 Settings Page: Key Sections & Features
+1. Profile Settings
+
+    🖼 Profile Picture (Avatar) — Upload/update profile image.
+
+    🧑 Username / Name
+
+    ✉️ Email (view or change)
+
+    📱 Phone number (optional, if registered with phone)
+
+    👤 About / Bio
+
+2. Account Settings
+
+    🔐 Change Password
+
+    🚪 Logout Button
+
+    ❌ Delete Account (optional and sensitive)
+
+3. Privacy & Security
+
+    🟢 Last Seen / Online Status Visibility
+
+        Everyone / Contacts Only / Nobody
+
+    🕵️‍♂️ Read Receipts Toggle
+
+    👀 Blocked Users — View and unblock users.
+
+    📍 Location Sharing Toggle (if supported in future)
+
+4. Notifications Settings
+
+    🔔 Push Notifications (on/off toggle)
+
+    📴 Sound / Vibration Preferences
+
+    💤 Do Not Disturb Mode
+
+    🛑 Mute Specific Chats (shortcut to muted chat list)
+
+5. Chat Settings
+
+    💬 Message Font Size
+
+    🎨 Chat Theme / Background (light/dark/custom images)
+
+    🧹 Clear Chat History
+
+    🔽 Auto Download Media Settings (WiFi only / Always / Never)
+
+6. App Settings
+
+    🌐 Language Selection
+
+    🎭 App Theme Toggle (Light / Dark / System)
+
+    📥 Data Backup / Restore
+
+    🔄 Update Status (version, changelog, update check)
+
+7. Support & About
+
+    🆘 Help Center / FAQs
+
+    💬 Contact Support
+
+    📄 Terms of Service
+
+    🔐 Privacy Policy
+
+    🧾 App Version Info
+
+🛠 Optional Advanced Features (Later Additions)
+
+    🔔 Notification Preview Toggle (show message content or not)
+
+    📁 Storage Usage Breakdown
+
+    🔑 Two-Factor Authentication
+
+    🌍 Linked Devices (like WhatsApp Web)
+
+    🎙️ Voice & Video Call Settings
+
+💡 Design Tips
+
+    Use collapsible sections or tabs for mobile responsiveness.
+
+    Group toggles with icons and short labels for clarity.
+
+    Make all actions (like change password, delete account) have confirmation dialogs.
+
